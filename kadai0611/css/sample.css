@@ -4,19 +4,29 @@ body {
   text-align: left;
   font-size: 32px;
   width: 100%;
-  background-color: #ffffff;
+  background-color: #fdf5e6;
 }
 header {
-  background-color: #fff;
+  background-color: #fdf5e6;
   border-bottom: 1px solid #ccc;
   text-align: center;
 }
 h1 {
   font-size: 100%;
-  background-color: #ffe0b6;
+  background-color: #fdf5e6;
+  font-family: 'Raleway', sans-serif;
 }
+label {
+  font-family: 'Raleway', sans-serif;
+}
+.label2 {
+  font-family: 'Raleway', sans-serif;
+} 
 input {
 background-color: #f6f0cc;
+}
+.subject {
+ background-color: #f6f0cc; 
 }
 main {
   width: 100%;
@@ -25,7 +35,7 @@ main {
   position: relative;
 }
 footer {
-  background-color: #fff;
+  background-color: #fdf5e6;
   border-bottom: 1px solid #ccc;
   text-align: center;
 }
@@ -101,4 +111,9 @@ input {
   margin-right: 8px;
   border: 1px dashed #404040;
   float: left;
+}
+.rabit{
+  width: 53px;
+  height: 89px;
+  font-family: 'Raleway', sans-serif;
 }
